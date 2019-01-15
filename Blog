@@ -1,48 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="UTF-8" />
-<title>
-FC Barcelona
-</title>
-<link rel="stylesheet" href="styles/index.processed.css">
-</head>
-<body>
-<header>
-<div>
-<img src="http://pngimg.com/uploads/fcb_logo/fcb_logo_PNG25.png" alt="Your Device is Having Trouble Viewing Certain Media">
-<h1>
-FC Barcelona
-</div>
-<div>
-<!--  TO DO  -->
-</form>
-</div>
-</header>
-<main>
-<div>
-<section>
-<h2>
-Basic Information
-</h2>
-<p>
-The FCB teams slogan is “Mes que un club” which means in English More than a club. The slogan was put into use by the founder of the club Joan Gamper. In my opinion, the slogan means that not only is FC Barcelona a club, but it is also a source of emotion.What I mean is that when Real Madrid scores in El Classico, the fans sometimes start crying. The Football teams stadium is known as Camp Nou. The president is Josep Maria Bartomeu, while the first team is coached by Ernesto Valverde. The president has a different role because as a president of the club, he has to look at economic problems and also has the responsibility to fire any player or coach because of a certain reason. However, the coach of the team has strategic problems. Founded on November 29, 1899, Barca plays in La Liga, Copa del Rey, Champions League, Europa League, Supercopa de España, Supercopa de Catalunya, International Cup, and the Joan Gamper.La Liga is the local Spanish league. The Copa del Rey is a national competition including all La Liga participants and the first twelve teams of the second division of La Liga. The Champions League is a national league run by UEFA. The first one to four teams of every European national team makes it to this major competition. The Europa league is also managed by UEFA, and it is for the two teams that miss a Champions League spot. The other half of the teams are from players who get eliminated in the group stage of the Champion League. The Supercopa de España is runned by the Spanish National Soccer Federation. The participants are the winner of La Liga andthe winner of the Copa del Rey. The International Cup is a pre-season tournament for major teams across the world. The Joan Gamper is the opening of the stadium every year. Barca plays against a team chosen by the management team. FCB’s biggest competitor is Real Madrid.
-</p>
-</section>
-<section>
-<h2>
-Introduction
-</h2>
-<p>
-You struggle to find your access point. You start at your watch. Once you find your access point, you are surprised to see a long line. You hear the whistle, and the game starts. You are still not in the stadium. After putting your ticket in the machine, you sprint on the field and hunt for your seat. " then add this "You look for your seat, and then you see it. You walk down to row A, which is right in front of the stadium. You then find your seat, and you sit down. The action is right in front of you. In this text, you will learn about Camp Nou, Cant del Barca, the players, and formations. You will see an analysis of goals, and two analysis of the “Dios del Futbol”, the Blaugrana start Leo Messi. 
-</p>
-</section>
-<section>
-<h2>
-Camp Nou
-</h2>
-<div>
-Camp Nou is FCB’s stadium. Camp Nou holds 99,354 people. Camp Nou is the second largest football stadium in the world, although, in Spain, it has the biggest capacity. The seats are red and blue because it is the ¡team's or. It was renovated in 1995 and in 2008. It is 48 meters high. That is very tall compared to multiple staduims. Camp Nou’s address is Carrer d'Aristides Maillol, 12, 08028 Barcelona. You can get to Camp Nou by using the L5 metro line in Barcelona or the L9. Get off at Collblanc for the L5 and Camp Nou on the L9 (the Camp Nou station is currently being made).
+  <head>
+    <meta charset="UTF-8">
+    <title>FC Barcelona</title>
+    <link rel="stylesheet" href="styles/index.processed.css">
+  </head>
+  <body>
+    <header>
+      <div>
+        <img src="http://pngimg.com/uploads/fcb_logo/fcb_logo_PNG25.png" alt="Your Device is Having Trouble Viewing Certain Media">
+        <h1>FC Barcelona</div>
+        <div>
+          <!--  TO DO  -->
+          <form>
+          </form>
+        </div>
+    </header>
+    <main>
+      <div>
+        <section>
+          <h2>Basic Information</h2>
+          <p>The FCB teams slogan is “Mes que un club” which means in English More than a club. The slogan was put into use by the founder of the club Joan Gamper. In my opinion, the slogan means that not only is FC Barcelona a club, but it is also a source of emotion.What I mean is that when Real Madrid scores in El Classico, the fans sometimes start crying. The Football teams stadium is known as Camp Nou. The president is Josep Maria Bartomeu, while the first team is coached by Ernesto Valverde. The president has a different role because as a president of the club, he has to look at economic problems and also has the responsibility to fire any player or coach because of a certain reason. However, the coach of the team has strategic problems. Founded on November 29, 1899, Barca plays in La Liga, Copa del Rey, Champions League, Europa League, Supercopa de España, Supercopa de Catalunya, International Cup, and the Joan Gamper.La Liga is the local Spanish league. The Copa del Rey is a national competition including all La Liga participants and the first twelve teams of the second division of La Liga. The Champions League is a national league run by UEFA. The first one to four teams of every European national team makes it to this major competition. The Europa league is also managed by UEFA, and it is for the two teams that miss a Champions League spot. The other half of the teams are from players who get eliminated in the group stage of the Champion League. The Supercopa de España is runned by the Spanish National Soccer Federation. The participants are the winner of La Liga andthe winner of the Copa del Rey. The International Cup is a pre-season tournament for major teams across the world. The Joan Gamper is the opening of the stadium every year. Barca plays against a team chosen by the management team. FCB’s biggest competitor is Real Madrid.</p>
+        </section>
+        <section>
+          <h2>Introduction</h2>
+          <p>You struggle to find your access point. You start at your watch. Once you find your access point, you are surprised to see a long line. You hear the whistle, and the game starts. You are still not in the stadium. After putting your ticket in the machine, you sprint on the field and hunt for your seat. " then add this "You look for your seat, and then you see it. You walk down to row A, which is right in front of the stadium. You then find your seat, and you sit down. The action is right in front of you. In this text, you will learn about Camp Nou, Cant del Barca, the players, and formations. You will see an analysis of goals, and two analysis of the “Dios del Futbol”, the Blaugrana start Leo Messi. </p>
+        </section>
+        <section>
+          <h2>Camp Nou</h2>
+      <div>
+        Camp Nou is FCB’s stadium. Camp Nou holds 99,354 people. Camp Nou is the second largest football stadium in the world, although, in Spain, it has the biggest capacity. The seats are red and blue because it is the ¡team's or. It was renovated in 1995 and in 2008. It is 48 meters high. That is very tall compared to multiple staduims. Camp Nou’s address is Carrer d'Aristides Maillol, 12, 08028 Barcelona. You can get to Camp Nou by using the L5 metro line in Barcelona or the L9. Get off at Collblanc for the L5 and Camp Nou on the L9 (the Camp Nou station is currently being made).
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/2014._Camp_Nou._M%C3%A9s_que_un_club._Barcelona_B40.jpg" alt="Your Device is Having Trouble Viewing Certain Media">
 </div>
 </section>
