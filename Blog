@@ -28,78 +28,69 @@
         </section>
         <section>
           <h2>Camp Nou</h2>
-      <div>
-        Camp Nou is FCB’s stadium. Camp Nou holds 99,354 people. Camp Nou is the second largest football stadium in the world, although, in Spain, it has the biggest capacity. The seats are red and blue because it is the ¡team's or. It was renovated in 1995 and in 2008. It is 48 meters high. That is very tall compared to multiple staduims. Camp Nou’s address is Carrer d'Aristides Maillol, 12, 08028 Barcelona. You can get to Camp Nou by using the L5 metro line in Barcelona or the L9. Get off at Collblanc for the L5 and Camp Nou on the L9 (the Camp Nou station is currently being made).
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/2014._Camp_Nou._M%C3%A9s_que_un_club._Barcelona_B40.jpg" alt="Your Device is Having Trouble Viewing Certain Media">
-</div>
-</section>
-<section>
-<h2>Cant del Barca</h2>
-<p>
-The anthem is an important part of a Barca game experience in Camp Nou. The players start walking onto the pitch and stay there. The fans rise from their seats. The energy flows through to pitch. You can hear the chants of the fans, filled with proudness of being a Barca fan. The song continues loudly, going with lots of importance to the fans of the team. You can see the players hand on their heart. Finally, you can enjoy the silence in Camp Nou. Suddenly, the players lift their hands and start clapping. Then, the players walk through the lines high fiving each other. After high fiving the whole other team, the captains go the referee to decide who starts and the players take their place in the field. The ball is touched, and a game full of emotion awaits the fans. Since 2008-09 el Cant del Barça has been the official anthem of Barcelona. The Cant del Barca is always sung in Catalan because the team is a Catalan team.
-</p>
-<p>
-<b>
-Lyrics of the Anthem (Catalan):
-</b>
-<br> Tot al camp és un clam som la gent blaugrana tant se val d’on venim si del sud o del nord ara estem d'acord, ara estem d’accord una bandera al vent Blaugrana al vent, un crit valent tenim un nom el sap tothom: Barca! Barca! Barca!
-<br>
-<br>
-Jugadors, seguidors, tots units fem la força som molt anys plem y afanias som molts gols que hem cridat I s’ha demostrat, I s’ha demostrat que mai ningú no ens torcer. Blaugrana el al vent un crit valent tenim un nom el sap tothom: Barca! Barca! </p>
-<p>
-<b>
-Translation with Analysis:
-</b>
-<br>
-“The whole stadium loudly cheers” is referring to the noise level. It is also referring to is the loud and noisy fans that shout when goals are scored
-<br>
-“We’re the blue and claret supporters” is referring to the FCB teams colors.
-<br>
-“It matters not where we hail from whether it's the south or the north” means that wherever the team plays, they still play and it does not change anything except their location.
-<br> 
-“Now we all agree we all agree,” is the fans agreeing to previous lines
-<br>
-“One flag unites us in brotherhood.” refers that everyone in the stadium is the same, a Barca fan.
-<br>
-“Blue and claret blowing in the wind” refer to the team colors being everywhere.
-<br> 
-“One valiant cry” refers to the referee's whistle.
-<br> 
-“We’ve got a name that everyone knows Barça! Barça! Barça!” is a loud cheer at the end stating the team's name.
-<br>
-<br> “Players, supporters, united we make force.” means that if the players are playing if the fans are cheering, everyone in the stadium creates a force to win.
-<br>
-“We’ve achieved much over the years, we’ve scored many goals” is referring to the many achievements that Barca has done over the years.
-<br>
-“And we have demonstrated, we have demonstrated that no one can ever break us” means that now won can stop the team from winning.
-<br>
-“Blue and claret blowing in the wind” refer to the team colors being everywhere.
-<br>
-“One valiant cry” refers to the referee's whistle.
-<br>
-“We’ve got a name that everyone knows Barça! Barça! Barça!” is a loud cheer at the end stating the team's name.
-</p>
-</section>
-<section>
-<h2>
-The Squad
-</h2>
-</section>
-<section>
-</section>
-<section>
-</section>
-<section>
-</section>
-<section>
-</section>
-</div>
-<aside>
-</aside>
-</main>
-<footer>
-</footer>
-<!-- Scripts -->
-<script src="scripts/index.js"></script>
-</body>
+          <div>
+            <p>Camp Nou is FCB’s stadium. Camp Nou holds 99,354 people. Camp Nou is the second largest football stadium in the world, although, in Spain, it has the biggest capacity. The seats are red and blue because it is the ¡team's or. It was renovated in 1995 and in 2008. It is 48 meters high. That is very tall compared to multiple staduims. Camp Nou’s address is Carrer d'Aristides Maillol, 12, 08028 Barcelona. You can get to Camp Nou by using the L5 metro line in Barcelona or the L9. Get off at Collblanc for the L5 and Camp Nou on the L9 (the Camp Nou station is currently being made).</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/2014._Camp_Nou._M%C3%A9s_que_un_club._Barcelona_B40.jpg" alt="Your Device is Having Trouble Viewing Certain Media">
+          </div>
+        </section>
+        <section>
+          <h2>Cant del Barca</h2>
+          <p>The anthem is an important part of a Barca game experience in Camp Nou. The players start walking onto the pitch and stay there. The fans rise from their seats. The energy flows through to pitch. You can hear the chants of the fans, filled with proudness of being a Barca fan. The song continues loudly, going with lots of importance to the fans of the team. You can see the players hand on their heart. Finally, you can enjoy the silence in Camp Nou. Suddenly, the players lift their hands and start clapping. Then, the players walk through the lines high fiving each other. After high fiving the whole other team, the captains go the referee to decide who starts and the players take their place in the field. The ball is touched, and a game full of emotion awaits the fans. Since 2008-09 el Cant del Barça has been the official anthem of Barcelona. The Cant del Barca is always sung in Catalan because the team is a Catalan team.</p>
+          <p><b>Lyrics of the Anthem (Catalan):</b></p>
+          <p>Tot al camp és un clam som la gent blaugrana tant se val d’on venim si del sud o del nord ara estem d'acord, ara estem d’accord una bandera al vent Blaugrana al vent, un crit valent tenim un nom el sap tothom: Barca! Barca! Barca!
+            <br>
+            <br>
+            Jugadors, seguidors, tots units fem la força som molt anys plem y afanias som molts gols que hem cridat I s’ha demostrat, I s’ha demostrat que mai ningú no ens torcer. Blaugrana el al vent un crit valent tenim un nom el sap tothom: Barca! Barca!
+          </p>
+          <p><b>Translation with Analysis:</b>
+            <br>
+            “The whole stadium loudly cheers” is referring to the noise level. It is also referring to is the loud and noisy fans that shout when goals are scored
+            <br>
+            “We’re the blue and claret supporters” is referring to the FCB teams colors.
+            <br>
+            “It matters not where we hail from whether it's the south or the north” means that wherever the team plays, they still play and it does not change anything except their location.
+            <br> 
+            “Now we all agree we all agree,” is the fans agreeing to previous lines
+            <br>
+            “One flag unites us in brotherhood.” refers that everyone in the stadium is the same, a Barca fan.
+            <br>
+            “Blue and claret blowing in the wind” refer to the team colors being everywhere.
+            <br> 
+            “One valiant cry” refers to the referee's whistle.
+            <br> 
+            “We’ve got a name that everyone knows Barça! Barça! Barça!” is a loud cheer at the end stating the team's name.             <br>
+            <br>
+            “Players, supporters, united we make force.” means that if the players are playing if the fans are cheering, everyone in the stadium creates a force to win.
+            <br>
+            “We’ve achieved much over the years, we’ve scored many goals” is referring to the many achievements that Barca has done over the years.
+            <br>
+            “And we have demonstrated, we have demonstrated that no one can ever break us” means that now won can stop the team from winning.
+            <br>
+            “Blue and claret blowing in the wind” refer to the team colors being everywhere.
+            <br>
+            “One valiant cry” refers to the referee's whistle.
+            <br>
+            “We’ve got a name that everyone knows Barça! Barça! Barça!” is a loud cheer at the end stating the team's name.
+          </p>
+        </section>
+        <section>
+          <h2>The Squad</h2>
+        </section>
+        <section>
+        </section>
+        <section>
+        </section>
+        <section>
+        </section>
+        <section>
+        </section>
+      </div>
+      <aside>
+      </aside>
+    </main>
+    <footer>
+    </footer>
+    <!-- Scripts -->
+    <script src="scripts/index.js"></script>
+  </body>
 </html>
